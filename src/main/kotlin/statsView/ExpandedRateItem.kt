@@ -1,0 +1,4 @@
+package statsView
+
+class ExpandedRateItem {
+}
